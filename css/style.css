@@ -580,16 +580,16 @@ span {
         margin-top: 1rem;
     }
     .home-image img {
-        width: 100%;
+        width: 60vw;
         height: 45vh;
         margin: 2rem;
         padding: 0;    
     }
     
     .about-image img {
-        width: 100%;
+        width: 60vw;
         height: 45vh;
-        padding: 0;
+        margin-left: 7rem;
         margin-bottom: 2rem;
     }
     .about-content p {
@@ -634,6 +634,7 @@ span {
     width: 100%;
     height: 40vh;
     opacity: .4;
+    margin-top: 1rem;
 }
 .portfolio-layer p {
     font-size: 2.4rem;
