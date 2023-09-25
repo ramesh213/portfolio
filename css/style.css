@@ -580,15 +580,15 @@ span {
         margin-top: 1rem;
     }
     .home-image img {
-        width: 70vw;
-        height: 40vh;
+        width: 100%;
+        height: 45vh;
         margin: 2rem;
         padding: 0;    
     }
     
     .about-image img {
         width: 100%;
-        height: 40vh;
+        height: 45vh;
         padding: 0;
         margin-bottom: 2rem;
     }
