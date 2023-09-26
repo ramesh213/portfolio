@@ -125,6 +125,7 @@ span {
 
 .home-content p {
     font-size: 1.8rem;
+    letter-spacing: 0.08rem;
 }
 
 .social-media a {
@@ -214,6 +215,7 @@ span {
     font-size: 1.8rem;
     margin: 2rem 0 3rem;
     margin-left: 6rem;
+    letter-spacing: 0.1rem;
 }
 
 #about .btn {
@@ -231,6 +233,7 @@ span {
 }
 .services p {
     font-size: 1.6rem;
+    letter-spacing: 0.1rem;
 }
 
 
@@ -321,6 +324,7 @@ span {
 }
 .portfolio-layer p {
     font-size: 1.6rem;
+    letter-spacing: 0.1rem;
 }
 .portfolio-layer a {
     display: inline;
