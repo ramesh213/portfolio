@@ -91,8 +91,8 @@ section {
     width: 22vw;
     height: 70vh;
     margin-left: 20rem;
-    border-radius: 8px;
-    box-shadow: 1rem 1rem 1rem 0 var(--main-color);
+    border-radius: 50%;
+    box-shadow: .3rem 0.3rem 0.3rem 0 var(--main-color);
 
 }
 
@@ -180,8 +180,8 @@ span {
     width: 22vw;
     height: 70vh;
     margin-right: 10rem;
-    border-radius: 8px;
-    box-shadow: 1rem 1rem 1rem 0 var(--main-color);
+    border-radius: 50%;
+    box-shadow: 0.3rem 0.3rem 0.3rem 0 var(--main-color);
 }
 
 .heading {
@@ -406,6 +406,7 @@ span {
     }
     body {
         max-width: 100%;
+        scroll-behavior: smooth;
     }
    }
 
@@ -423,6 +424,10 @@ span {
    } 
 
 @media (max-width: 768px) {
+
+    body {
+        scroll-behavior: smooth;
+    }
     #menu-icon {
         display: block;
     }
@@ -530,6 +535,9 @@ span {
     html {
         font-size: 50%;
     }
+    body {
+        scroll-behavior: smooth;
+    }
     .home-image img {
         width: 70vw;
         height: 40vh;
@@ -563,6 +571,10 @@ span {
 }
  
 @media (max-width: 375px) {
+
+    body {
+        scroll-behavior: smooth;
+    }
     .navbar a {
         padding: .2rem;
     }
@@ -603,11 +615,11 @@ span {
     }
     .about-content .college {
         font-size: 2rem;
-        color:aquamarine;
+        color: whitesmoke;
     
     }
     .about-content .college1 {
-        color: violet;
+        color: whitesmoke;
     }
 
     .services-container .services-box {
