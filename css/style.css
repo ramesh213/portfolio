@@ -89,7 +89,7 @@ section {
 
 .home-image img {
     width: 22vw;
-    height: 70vh;
+    height: 72vh;
     margin-left: 20rem;
     border-radius: 50%;
     box-shadow: .3rem 0.3rem 0.3rem 0 var(--main-color);
@@ -179,7 +179,7 @@ span {
 
 .about-image img {
     width: 22vw;
-    height: 70vh;
+    height: 72vh;
     margin-right: 10rem;
     border-radius: 50%;
     box-shadow: 0.3rem 0.3rem 0.3rem 0 var(--main-color);
